@@ -3,8 +3,8 @@
 - 🌱 Estudando banco de dados relacionais (SQL)
 
 #
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=monique282&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=monique282&layout=compact&theme=radical)
 
 ### Languages and Tools:
 <div style="display: inline_block"><br>
