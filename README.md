@@ -3,8 +3,10 @@
 - 🌱 Estudando banco de dados relacionais (SQL)
 
 #
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=monique282&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=monique282&layout=compact&theme=radical)
+<div align="center" >
+<img  height="175em" src="https://github-readme-stats.vercel.app/api?username=andressafirmino&show_icons=true&theme=omni&include_all_commits=true&count_private=true"/>
+<img  height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andressafirmino&layout=compact&langs_count=16&theme=omni"/>
+</div>
 
 ### 
 <p align="center" >Languages and Tools:</p>
@@ -28,7 +30,7 @@
 
 
 ##
- <summary>  :zap: Most Used Languages</summary>
+ <summary>  :zap: Ways of communication</summary>
   <br />
 <div>
  <a href="https://discord.gg/wagxzStdcR" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
