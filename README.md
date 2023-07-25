@@ -1,14 +1,16 @@
-### Ola!, eu me chamo Monique 👋
+<div align="center" >
+<p>Ola!, eu me chamo Monique 👋</p>
 
-- 🌱 Estudando banco de dados relacionais (SQL)
+🌱 Estudando banco de dados relacionais (SQL)
+</div>
 
-#
+## 
 <div align="center" >
 <img  height="175em" src="https://github-readme-stats.vercel.app/api?username=monique282&show_icons=true&theme=omni&include_all_commits=true&count_private=true"/>
 <img  height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=monique282&layout=compact&langs_count=16&theme=omni"/>
 </div>
 
-### 
+## 
 <p align="center" >Languages and Tools:</p>
 <div style="display: inline_block"  align="center" >
   <img  alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/DarlanSchwartz/DarlanSchwartz/main/Github%20readme%20images/visual-studio-code.png" />
@@ -26,12 +28,9 @@
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="35" height="35" title="Git"/>
 </div>
 
-
-
-
 ##
- <summary align="center">  :zap: Ways of communication</summary>
-  <br />
+ <p align="center">  :zap: Ways of communication</p>
+  <br/>
 <div align="center">
  <a href="https://discord.gg/wagxzStdcR" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href="https://www.instagram.com/monique_tututi/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
