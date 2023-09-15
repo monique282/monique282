@@ -1,7 +1,7 @@
 <div align="center" >
 <p>Ola!, eu me chamo Monique 👋</p>
 
-🌱 Estudando banco de dados relacionais (SQL)
+🌱 Estudando Type Script, Arquitetura e Boas Práticas (simulação de onboarding)
 </div>
 
 ## 
