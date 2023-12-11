@@ -1,7 +1,7 @@
 <div align="center" >
-<p>Ola!, eu me chamo Monique 👋</p>
+<p>Ola!, eu me chamo Monique tenho 24 anos e moro em Minas Gerais👋</p>
 
-🌱 Estudando Type Script, Arquitetura e Boas Práticas (simulação de onboarding)
+🌱 Hoje estou no mercado de programação, estou prepara para mostrar minhas qualidades profissionais e pessoais, mostrando o quando sou esforçada e dedicada, sendo uma programadora ágil e adaptável, buscando sempre aprimorar e aperfeiçoar meus conhecimentos, espero que nada em meus códigos e fique não fascinada quanto eu, qualquer dúvida ou curiosidade estou aqui pode me chamar 😉. 
 </div>
 
 ## 
